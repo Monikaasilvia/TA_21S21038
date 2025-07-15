@@ -7,6 +7,7 @@ Jenis penelitian kuantitatif dengan sumber data primer berasal dari kuesioner. S
 <img width="788" height="650" alt="image" src="https://github.com/user-attachments/assets/d9463b67-038f-4468-85cd-147949f5241f" />
 ## Hasil 
 <img width="665" height="366" alt="image" src="https://github.com/user-attachments/assets/7ffbe81c-7600-436f-9a4d-47d29ec1a654" />
+
 ## Kesimpulan
 1.	Tingkat anthropomorphism AIVI berpengaruh signifikan terhadap consumer behavior. AIVI dengan visualisasi high anthropomorphism menghasilkan purchase/visit intention dan loyalty yang lebih tinggi dibandingkan level medium dan low.
 2.	Trust terbukti menjadi mediator yang signifikan dalam hubungan antara anthropomorphism dan consumer behavior. Meningkatnya level anthropomorphism pada AIVI dapat membangun kepercayaan, yang selanjutnya mendorong ketertarikan (niat membeli dan niat berkunjung) dan loyalitas konsumen.
